@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aungzincloud
-- 👀 I’m interested in ...Cloud Tech
-- 🌱 I’m currently learning ...Cloud Tech
+- 👀 I’m interested in ...Cloud_vs_Virtualization
+- 🌱 I’m currently learning ...Cloud_Tech
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
