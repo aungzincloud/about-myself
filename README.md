@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @aungzincloud
-- 👀 I’m interested in ...Cloud_vs_Virtualization
-- 🌱 I’m currently learning ...Cloud_Tech
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I'm Aung Zin Phyo Oo
+Senior SRE | Cloud Infrastructure | Platform Engineering
 
-<!---
-aungzincloud/aungzincloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Cloud Infrastructure & Platform Engineer with 18+ years of experience building and operating enterprise infrastructure across AWS, Kubernetes/OpenShift, OpenStack, VMware, and Linux.
+
+🛠️ Skills
+☁️ AWS | OpenStack | VMware
+☸️ Kubernetes | OpenShift | Docker
+🚀 Argo CD | GitOps | CI/CD
+🤖 Ansible | Bash | Python
+🌐 Cisco ACI | Networking
+🔐 Security | RBAC | Hardening
+📊 Monitoring | HA | DR | Incident Response
+🎯 Focus
+
+SRE • Platform Engineering • Cloud Infrastructure • Automation • Reliability
+
+Currently building hands-on projects around Kubernetes, OpenShift, AWS, GitOps, and infrastructure automation.
+
+📜 Certifications
+
+AWS SAA • VMware VCP-DCV/NV • RHCSA • ITIL • ISC2 CC • ISO 27001 • CCNA
+
+📍 Malaysia | 💼 Open to SRE / Senior SRE / Platform Engineer / Cloud Infrastructure opportunities
